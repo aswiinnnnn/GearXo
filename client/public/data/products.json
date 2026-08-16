@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "id": "SP-000001",
     "brandId": "apple",
@@ -28,7 +28,7 @@
     },
     "delivery": {
       "free": true,
-      "estimatedDays": "2–4 business days"
+      "estimatedDays": "2â€“4 business days"
     },
     "sellerId": "seller-001",
     "location": {
@@ -36,11 +36,11 @@
       "state": "Karnataka"
     },
     "images": {
-      "primary": "/manus-storage/swapphone-hero_c76449fc.png",
+      "primary": "/swapphone-hero_c76449fc.png",
       "gallery": [
-        "/manus-storage/swapphone-hero_c76449fc.png",
-        "/manus-storage/swapphone-listing-desk_edf860e4.png",
-        "/manus-storage/swapphone-listing-hand_4fcacd41.png"
+        "/swapphone-hero_c76449fc.png",
+        "/swapphone-listing-desk_edf860e4.png",
+        "/swapphone-listing-hand_4fcacd41.png"
       ]
     },
     "specifications": {
@@ -54,7 +54,7 @@
       "featured",
       "recommended"
     ],
-    "description": "## iPhone 15 Pro Max at a glance\nA Care Plus checked **iPhone 15 Pro Max** in **Natural Titanium** with **256GB** storage. This listing is graded **Excellent** and has minimal signs of use.\n\n### What has been checked\n- **Battery health:** 91%\n- **Storage:** 256GB\n- **Colour:** Natural Titanium\n- **Listing code:** SP-000001\n\n### Purchase details\n- Care Plus quality check completed before listing\n- **Warranty:** 6 months of Care Plus warranty\n- **Delivery:** Free delivery, usually 2–4 business days\n\n### Condition note\n**Excellent:** Minimal signs of use. The phone is offered as the specific listing shown here, so use the listing code when asking about this device."
+    "description": "## iPhone 15 Pro Max at a glance\nA Care Plus checked **iPhone 15 Pro Max** in **Natural Titanium** with **256GB** storage. This listing is graded **Excellent** and has minimal signs of use.\n\n### What has been checked\n- **Battery health:** 91%\n- **Storage:** 256GB\n- **Colour:** Natural Titanium\n- **Listing code:** SP-000001\n\n### Purchase details\n- Care Plus quality check completed before listing\n- **Warranty:** 6 months of Care Plus warranty\n- **Delivery:** Free delivery, usually 2â€“4 business days\n\n### Condition note\n**Excellent:** Minimal signs of use. The phone is offered as the specific listing shown here, so use the listing code when asking about this device."
   },
   {
     "id": "SP-000002",
@@ -85,7 +85,7 @@
     },
     "delivery": {
       "free": true,
-      "estimatedDays": "2–4 business days"
+      "estimatedDays": "2â€“4 business days"
     },
     "sellerId": "seller-002",
     "location": {
@@ -93,10 +93,10 @@
       "state": "Maharashtra"
     },
     "images": {
-      "primary": "/manus-storage/swapphone-listing-desk_edf860e4.png",
+      "primary": "/swapphone-listing-desk_edf860e4.png",
       "gallery": [
-        "/manus-storage/swapphone-listing-desk_edf860e4.png",
-        "/manus-storage/swapphone-hero_c76449fc.png"
+        "/swapphone-listing-desk_edf860e4.png",
+        "/swapphone-hero_c76449fc.png"
       ]
     },
     "specifications": {
@@ -109,7 +109,7 @@
     "tags": [
       "featured"
     ],
-    "description": "## iPhone 15 Pro at a glance\nA Care Plus checked **iPhone 15 Pro** in **Blue Titanium** with **128GB** storage. This listing is graded **Excellent** and has minimal signs of use.\n\n### What has been checked\n- **Battery health:** 94%\n- **Storage:** 128GB\n- **Colour:** Blue Titanium\n- **Listing code:** SP-000002\n\n### Purchase details\n- Care Plus quality check completed before listing\n- **Warranty:** 6 months of Care Plus warranty\n- **Delivery:** Free delivery, usually 2–4 business days\n\n### Condition note\n**Excellent:** Minimal signs of use. The phone is offered as the specific listing shown here, so use the listing code when asking about this device."
+    "description": "## iPhone 15 Pro at a glance\nA Care Plus checked **iPhone 15 Pro** in **Blue Titanium** with **128GB** storage. This listing is graded **Excellent** and has minimal signs of use.\n\n### What has been checked\n- **Battery health:** 94%\n- **Storage:** 128GB\n- **Colour:** Blue Titanium\n- **Listing code:** SP-000002\n\n### Purchase details\n- Care Plus quality check completed before listing\n- **Warranty:** 6 months of Care Plus warranty\n- **Delivery:** Free delivery, usually 2â€“4 business days\n\n### Condition note\n**Excellent:** Minimal signs of use. The phone is offered as the specific listing shown here, so use the listing code when asking about this device."
   },
   {
     "id": "SP-000003",
@@ -140,7 +140,7 @@
     },
     "delivery": {
       "free": true,
-      "estimatedDays": "3–5 business days"
+      "estimatedDays": "3â€“5 business days"
     },
     "sellerId": "seller-003",
     "location": {
@@ -148,10 +148,10 @@
       "state": "Maharashtra"
     },
     "images": {
-      "primary": "/manus-storage/swapphone-listing-hand_4fcacd41.png",
+      "primary": "/swapphone-listing-hand_4fcacd41.png",
       "gallery": [
-        "/manus-storage/swapphone-listing-hand_4fcacd41.png",
-        "/manus-storage/swapphone-listing-desk_edf860e4.png"
+        "/swapphone-listing-hand_4fcacd41.png",
+        "/swapphone-listing-desk_edf860e4.png"
       ]
     },
     "specifications": {
@@ -164,7 +164,7 @@
     "tags": [
       "featured"
     ],
-    "description": "## iPhone 15 at a glance\nA Care Plus checked **iPhone 15** in **Pink** with **128GB** storage. This listing is graded **Very Good** and has minor signs of use.\n\n### What has been checked\n- **Battery health:** 89%\n- **Storage:** 128GB\n- **Colour:** Pink\n- **Listing code:** SP-000003\n\n### Purchase details\n- Care Plus quality check completed before listing\n- **Warranty:** 3 months of Care Plus warranty\n- **Delivery:** Free delivery, usually 3–5 business days\n\n### Condition note\n**Very Good:** Minor signs of use. The phone is offered as the specific listing shown here, so use the listing code when asking about this device."
+    "description": "## iPhone 15 at a glance\nA Care Plus checked **iPhone 15** in **Pink** with **128GB** storage. This listing is graded **Very Good** and has minor signs of use.\n\n### What has been checked\n- **Battery health:** 89%\n- **Storage:** 128GB\n- **Colour:** Pink\n- **Listing code:** SP-000003\n\n### Purchase details\n- Care Plus quality check completed before listing\n- **Warranty:** 3 months of Care Plus warranty\n- **Delivery:** Free delivery, usually 3â€“5 business days\n\n### Condition note\n**Very Good:** Minor signs of use. The phone is offered as the specific listing shown here, so use the listing code when asking about this device."
   },
   {
     "id": "SP-000004",
@@ -195,7 +195,7 @@
     },
     "delivery": {
       "free": true,
-      "estimatedDays": "2–4 business days"
+      "estimatedDays": "2â€“4 business days"
     },
     "sellerId": "seller-001",
     "location": {
@@ -203,10 +203,10 @@
       "state": "Karnataka"
     },
     "images": {
-      "primary": "/manus-storage/swapphone-listing-desk_edf860e4.png",
+      "primary": "/swapphone-listing-desk_edf860e4.png",
       "gallery": [
-        "/manus-storage/swapphone-listing-desk_edf860e4.png",
-        "/manus-storage/swapphone-hero_c76449fc.png"
+        "/swapphone-listing-desk_edf860e4.png",
+        "/swapphone-hero_c76449fc.png"
       ]
     },
     "specifications": {
@@ -219,7 +219,7 @@
     "tags": [
       "featured"
     ],
-    "description": "## iPhone 14 Pro Max at a glance\nA Care Plus checked **iPhone 14 Pro Max** in **Silver** with **256GB** storage. This listing is graded **Excellent** and has minimal signs of use.\n\n### What has been checked\n- **Battery health:** 92%\n- **Storage:** 256GB\n- **Colour:** Silver\n- **Listing code:** SP-000004\n\n### Purchase details\n- Care Plus quality check completed before listing\n- **Warranty:** 6 months of Care Plus warranty\n- **Delivery:** Free delivery, usually 2–4 business days\n\n### Condition note\n**Excellent:** Minimal signs of use. The phone is offered as the specific listing shown here, so use the listing code when asking about this device."
+    "description": "## iPhone 14 Pro Max at a glance\nA Care Plus checked **iPhone 14 Pro Max** in **Silver** with **256GB** storage. This listing is graded **Excellent** and has minimal signs of use.\n\n### What has been checked\n- **Battery health:** 92%\n- **Storage:** 256GB\n- **Colour:** Silver\n- **Listing code:** SP-000004\n\n### Purchase details\n- Care Plus quality check completed before listing\n- **Warranty:** 6 months of Care Plus warranty\n- **Delivery:** Free delivery, usually 2â€“4 business days\n\n### Condition note\n**Excellent:** Minimal signs of use. The phone is offered as the specific listing shown here, so use the listing code when asking about this device."
   },
   {
     "id": "SP-000005",
@@ -250,7 +250,7 @@
     },
     "delivery": {
       "free": true,
-      "estimatedDays": "2–4 business days"
+      "estimatedDays": "2â€“4 business days"
     },
     "sellerId": "seller-002",
     "location": {
@@ -258,10 +258,10 @@
       "state": "Maharashtra"
     },
     "images": {
-      "primary": "/manus-storage/swapphone-listing-hand_4fcacd41.png",
+      "primary": "/swapphone-listing-hand_4fcacd41.png",
       "gallery": [
-        "/manus-storage/swapphone-listing-hand_4fcacd41.png",
-        "/manus-storage/swapphone-listing-desk_edf860e4.png"
+        "/swapphone-listing-hand_4fcacd41.png",
+        "/swapphone-listing-desk_edf860e4.png"
       ]
     },
     "specifications": {
@@ -275,7 +275,7 @@
       "featured",
       "recommended"
     ],
-    "description": "## Galaxy S24 Ultra at a glance\nA Care Plus checked **Galaxy S24 Ultra** in **Titanium Gray** with **256GB** storage. This listing is graded **Excellent** and has minimal signs of use.\n\n### What has been checked\n- **Battery health:** 96%\n- **Storage:** 256GB\n- **Colour:** Titanium Gray\n- **Listing code:** SP-000005\n\n### Purchase details\n- Care Plus quality check completed before listing\n- **Warranty:** 6 months of Care Plus warranty\n- **Delivery:** Free delivery, usually 2–4 business days\n\n### Condition note\n**Excellent:** Minimal signs of use. The phone is offered as the specific listing shown here, so use the listing code when asking about this device."
+    "description": "## Galaxy S24 Ultra at a glance\nA Care Plus checked **Galaxy S24 Ultra** in **Titanium Gray** with **256GB** storage. This listing is graded **Excellent** and has minimal signs of use.\n\n### What has been checked\n- **Battery health:** 96%\n- **Storage:** 256GB\n- **Colour:** Titanium Gray\n- **Listing code:** SP-000005\n\n### Purchase details\n- Care Plus quality check completed before listing\n- **Warranty:** 6 months of Care Plus warranty\n- **Delivery:** Free delivery, usually 2â€“4 business days\n\n### Condition note\n**Excellent:** Minimal signs of use. The phone is offered as the specific listing shown here, so use the listing code when asking about this device."
   },
   {
     "id": "SP-000006",
@@ -306,7 +306,7 @@
     },
     "delivery": {
       "free": true,
-      "estimatedDays": "3–5 business days"
+      "estimatedDays": "3â€“5 business days"
     },
     "sellerId": "seller-003",
     "location": {
@@ -314,10 +314,10 @@
       "state": "Maharashtra"
     },
     "images": {
-      "primary": "/manus-storage/swapphone-listing-desk_edf860e4.png",
+      "primary": "/swapphone-listing-desk_edf860e4.png",
       "gallery": [
-        "/manus-storage/swapphone-listing-desk_edf860e4.png",
-        "/manus-storage/swapphone-listing-hand_4fcacd41.png"
+        "/swapphone-listing-desk_edf860e4.png",
+        "/swapphone-listing-hand_4fcacd41.png"
       ]
     },
     "specifications": {
@@ -330,7 +330,7 @@
     "tags": [
       "featured"
     ],
-    "description": "## OnePlus 12 at a glance\nA Care Plus checked **OnePlus 12** in **Emerald** with **256GB** storage. This listing is graded **Very Good** and has minor signs of use.\n\n### What has been checked\n- **Battery health:** 90%\n- **Storage:** 256GB\n- **Colour:** Emerald\n- **Listing code:** SP-000006\n\n### Purchase details\n- Care Plus quality check completed before listing\n- **Warranty:** 3 months of Care Plus warranty\n- **Delivery:** Free delivery, usually 3–5 business days\n\n### Condition note\n**Very Good:** Minor signs of use. The phone is offered as the specific listing shown here, so use the listing code when asking about this device."
+    "description": "## OnePlus 12 at a glance\nA Care Plus checked **OnePlus 12** in **Emerald** with **256GB** storage. This listing is graded **Very Good** and has minor signs of use.\n\n### What has been checked\n- **Battery health:** 90%\n- **Storage:** 256GB\n- **Colour:** Emerald\n- **Listing code:** SP-000006\n\n### Purchase details\n- Care Plus quality check completed before listing\n- **Warranty:** 3 months of Care Plus warranty\n- **Delivery:** Free delivery, usually 3â€“5 business days\n\n### Condition note\n**Very Good:** Minor signs of use. The phone is offered as the specific listing shown here, so use the listing code when asking about this device."
   },
   {
     "id": "SP-000007",
@@ -361,7 +361,7 @@
     },
     "delivery": {
       "free": true,
-      "estimatedDays": "3–5 business days"
+      "estimatedDays": "3â€“5 business days"
     },
     "sellerId": "seller-002",
     "location": {
@@ -369,10 +369,10 @@
       "state": "Maharashtra"
     },
     "images": {
-      "primary": "/manus-storage/swapphone-listing-hand_4fcacd41.png",
+      "primary": "/swapphone-listing-hand_4fcacd41.png",
       "gallery": [
-        "/manus-storage/swapphone-listing-hand_4fcacd41.png",
-        "/manus-storage/swapphone-listing-desk_edf860e4.png"
+        "/swapphone-listing-hand_4fcacd41.png",
+        "/swapphone-listing-desk_edf860e4.png"
       ]
     },
     "specifications": {
@@ -385,7 +385,7 @@
     "tags": [
       "recommended"
     ],
-    "description": "## Pixel 8 Pro at a glance\nA Care Plus checked **Pixel 8 Pro** in **Obsidian** with **128GB** storage. This listing is graded **Good** and has visible signs of use.\n\n### What has been checked\n- **Battery health:** 86%\n- **Storage:** 128GB\n- **Colour:** Obsidian\n- **Listing code:** SP-000007\n\n### Purchase details\n- Care Plus quality check completed before listing\n- **Warranty:** 3 months of Care Plus warranty\n- **Delivery:** Free delivery, usually 3–5 business days\n\n### Condition note\n**Good:** Visible signs of use. The phone is offered as the specific listing shown here, so use the listing code when asking about this device."
+    "description": "## Pixel 8 Pro at a glance\nA Care Plus checked **Pixel 8 Pro** in **Obsidian** with **128GB** storage. This listing is graded **Good** and has visible signs of use.\n\n### What has been checked\n- **Battery health:** 86%\n- **Storage:** 128GB\n- **Colour:** Obsidian\n- **Listing code:** SP-000007\n\n### Purchase details\n- Care Plus quality check completed before listing\n- **Warranty:** 3 months of Care Plus warranty\n- **Delivery:** Free delivery, usually 3â€“5 business days\n\n### Condition note\n**Good:** Visible signs of use. The phone is offered as the specific listing shown here, so use the listing code when asking about this device."
   },
   {
     "id": "SP-000009",
@@ -424,10 +424,10 @@
       "state": "Karnataka"
     },
     "images": {
-      "primary": "/manus-storage/swapphone-listing-desk_edf860e4.png",
+      "primary": "/swapphone-listing-desk_edf860e4.png",
       "gallery": [
-        "/manus-storage/swapphone-listing-desk_edf860e4.png",
-        "/manus-storage/swapphone-listing-hand_4fcacd41.png"
+        "/swapphone-listing-desk_edf860e4.png",
+        "/swapphone-listing-hand_4fcacd41.png"
       ]
     },
     "specifications": {
@@ -479,10 +479,10 @@
       "state": "Maharashtra"
     },
     "images": {
-      "primary": "/manus-storage/swapphone-listing-hand_4fcacd41.png",
+      "primary": "/swapphone-listing-hand_4fcacd41.png",
       "gallery": [
-        "/manus-storage/swapphone-listing-hand_4fcacd41.png",
-        "/manus-storage/swapphone-hero_c76449fc.png"
+        "/swapphone-listing-hand_4fcacd41.png",
+        "/swapphone-hero_c76449fc.png"
       ]
     },
     "specifications": {
@@ -534,10 +534,10 @@
       "state": "Maharashtra"
     },
     "images": {
-      "primary": "/manus-storage/swapphone-hero_c76449fc.png",
+      "primary": "/swapphone-hero_c76449fc.png",
       "gallery": [
-        "/manus-storage/swapphone-hero_c76449fc.png",
-        "/manus-storage/swapphone-mobile-hero-seamless_8f04ff0e.png"
+        "/swapphone-hero_c76449fc.png",
+        "/swapphone-mobile-hero-seamless_8f04ff0e.png"
       ]
     },
     "specifications": {
@@ -589,10 +589,10 @@
       "state": "Delhi"
     },
     "images": {
-      "primary": "/manus-storage/swapphone-mobile-hero-seamless_8f04ff0e.png",
+      "primary": "/swapphone-mobile-hero-seamless_8f04ff0e.png",
       "gallery": [
-        "/manus-storage/swapphone-mobile-hero-seamless_8f04ff0e.png",
-        "/manus-storage/swapphone-listing-desk_edf860e4.png"
+        "/swapphone-mobile-hero-seamless_8f04ff0e.png",
+        "/swapphone-listing-desk_edf860e4.png"
       ]
     },
     "specifications": {
@@ -644,10 +644,10 @@
       "state": "Telangana"
     },
     "images": {
-      "primary": "/manus-storage/swapphone-listing-desk_edf860e4.png",
+      "primary": "/swapphone-listing-desk_edf860e4.png",
       "gallery": [
-        "/manus-storage/swapphone-listing-desk_edf860e4.png",
-        "/manus-storage/swapphone-listing-hand_4fcacd41.png"
+        "/swapphone-listing-desk_edf860e4.png",
+        "/swapphone-listing-hand_4fcacd41.png"
       ]
     },
     "specifications": {
@@ -699,10 +699,10 @@
       "state": "Tamil Nadu"
     },
     "images": {
-      "primary": "/manus-storage/swapphone-listing-hand_4fcacd41.png",
+      "primary": "/swapphone-listing-hand_4fcacd41.png",
       "gallery": [
-        "/manus-storage/swapphone-listing-hand_4fcacd41.png",
-        "/manus-storage/swapphone-hero_c76449fc.png"
+        "/swapphone-listing-hand_4fcacd41.png",
+        "/swapphone-hero_c76449fc.png"
       ]
     },
     "specifications": {
@@ -754,10 +754,10 @@
       "state": "Karnataka"
     },
     "images": {
-      "primary": "/manus-storage/swapphone-hero_c76449fc.png",
+      "primary": "/swapphone-hero_c76449fc.png",
       "gallery": [
-        "/manus-storage/swapphone-hero_c76449fc.png",
-        "/manus-storage/swapphone-mobile-hero-seamless_8f04ff0e.png"
+        "/swapphone-hero_c76449fc.png",
+        "/swapphone-mobile-hero-seamless_8f04ff0e.png"
       ]
     },
     "specifications": {
@@ -809,10 +809,10 @@
       "state": "Maharashtra"
     },
     "images": {
-      "primary": "/manus-storage/swapphone-mobile-hero-seamless_8f04ff0e.png",
+      "primary": "/swapphone-mobile-hero-seamless_8f04ff0e.png",
       "gallery": [
-        "/manus-storage/swapphone-mobile-hero-seamless_8f04ff0e.png",
-        "/manus-storage/swapphone-listing-desk_edf860e4.png"
+        "/swapphone-mobile-hero-seamless_8f04ff0e.png",
+        "/swapphone-listing-desk_edf860e4.png"
       ]
     },
     "specifications": {
@@ -864,10 +864,10 @@
       "state": "Maharashtra"
     },
     "images": {
-      "primary": "/manus-storage/swapphone-listing-desk_edf860e4.png",
+      "primary": "/swapphone-listing-desk_edf860e4.png",
       "gallery": [
-        "/manus-storage/swapphone-listing-desk_edf860e4.png",
-        "/manus-storage/swapphone-listing-hand_4fcacd41.png"
+        "/swapphone-listing-desk_edf860e4.png",
+        "/swapphone-listing-hand_4fcacd41.png"
       ]
     },
     "specifications": {
@@ -919,10 +919,10 @@
       "state": "Delhi"
     },
     "images": {
-      "primary": "/manus-storage/swapphone-listing-hand_4fcacd41.png",
+      "primary": "/swapphone-listing-hand_4fcacd41.png",
       "gallery": [
-        "/manus-storage/swapphone-listing-hand_4fcacd41.png",
-        "/manus-storage/swapphone-hero_c76449fc.png"
+        "/swapphone-listing-hand_4fcacd41.png",
+        "/swapphone-hero_c76449fc.png"
       ]
     },
     "specifications": {
@@ -974,10 +974,10 @@
       "state": "Telangana"
     },
     "images": {
-      "primary": "/manus-storage/swapphone-hero_c76449fc.png",
+      "primary": "/swapphone-hero_c76449fc.png",
       "gallery": [
-        "/manus-storage/swapphone-hero_c76449fc.png",
-        "/manus-storage/swapphone-mobile-hero-seamless_8f04ff0e.png"
+        "/swapphone-hero_c76449fc.png",
+        "/swapphone-mobile-hero-seamless_8f04ff0e.png"
       ]
     },
     "specifications": {
@@ -1029,10 +1029,10 @@
       "state": "Tamil Nadu"
     },
     "images": {
-      "primary": "/manus-storage/swapphone-mobile-hero-seamless_8f04ff0e.png",
+      "primary": "/swapphone-mobile-hero-seamless_8f04ff0e.png",
       "gallery": [
-        "/manus-storage/swapphone-mobile-hero-seamless_8f04ff0e.png",
-        "/manus-storage/swapphone-listing-desk_edf860e4.png"
+        "/swapphone-mobile-hero-seamless_8f04ff0e.png",
+        "/swapphone-listing-desk_edf860e4.png"
       ]
     },
     "specifications": {
@@ -1084,10 +1084,10 @@
       "state": "Karnataka"
     },
     "images": {
-      "primary": "/manus-storage/swapphone-listing-desk_edf860e4.png",
+      "primary": "/swapphone-listing-desk_edf860e4.png",
       "gallery": [
-        "/manus-storage/swapphone-listing-desk_edf860e4.png",
-        "/manus-storage/swapphone-listing-hand_4fcacd41.png"
+        "/swapphone-listing-desk_edf860e4.png",
+        "/swapphone-listing-hand_4fcacd41.png"
       ]
     },
     "specifications": {
@@ -1139,10 +1139,10 @@
       "state": "Maharashtra"
     },
     "images": {
-      "primary": "/manus-storage/swapphone-listing-hand_4fcacd41.png",
+      "primary": "/swapphone-listing-hand_4fcacd41.png",
       "gallery": [
-        "/manus-storage/swapphone-listing-hand_4fcacd41.png",
-        "/manus-storage/swapphone-hero_c76449fc.png"
+        "/swapphone-listing-hand_4fcacd41.png",
+        "/swapphone-hero_c76449fc.png"
       ]
     },
     "specifications": {
@@ -1158,3 +1158,4 @@
     ]
   }
 ]
+

@@ -47,7 +47,7 @@ button:active { transform: scale(.97); }
 .surface { background: #fff; border: 1px solid var(--border); border-radius: 1.25rem; }
 .soft-shadow { box-shadow: 0 24px 70px rgba(45, 51, 45, .08); }
 .hero-stage { background-color: #efeee9; background-size: cover; background-position: 68% center; background-repeat: no-repeat; border-radius: 2rem; overflow: hidden; position: relative; }
-@media (max-width: 767px) { .hero-stage { background-image: url('/manus-storage/swapphone-mobile-hero-seamless_8f04ff0e.png') !important; background-size: 132% auto; background-position: 64% 44%; } }
+@media (max-width: 767px) { .hero-stage { background-image: url('/swapphone-mobile-hero-seamless_8f04ff0e.png') !important; background-size: 132% auto; background-position: 64% 44%; } }
 .hero-overlay { background: linear-gradient(90deg, rgba(251,250,247,.97) 0%, rgba(251,250,247,.78) 42%, rgba(251,250,247,.12) 82%, rgba(251,250,247,0) 100%); }
 @media (max-width: 767px) { .hero-overlay { background: linear-gradient(180deg, rgba(251,250,247,.88) 0%, rgba(251,250,247,.62) 27%, rgba(251,250,247,.16) 64%, rgba(251,250,247,.02) 100%); } }
 .overflow-x-auto, .overflow-y-auto, .overflow-auto, .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
