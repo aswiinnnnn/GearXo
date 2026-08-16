@@ -1,0 +1,6 @@
+[
+  {"id":"excellent","name":"Excellent","description":"Minimal signs of use"},
+  {"id":"very-good","name":"Very Good","description":"Minor signs of use"},
+  {"id":"good","name":"Good","description":"Visible signs of use"},
+  {"id":"fair","name":"Fair","description":"Noticeable wear"}
+]

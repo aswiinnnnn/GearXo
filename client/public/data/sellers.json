@@ -1,0 +1,5 @@
+[
+  {"id":"seller-001","name":"Verified Mobiles","type":"verified","rating":4.8,"reviewCount":312,"location":"Bengaluru","phonesSold":1200},
+  {"id":"seller-002","name":"Device Loop","type":"verified","rating":4.7,"reviewCount":184,"location":"Mumbai","phonesSold":780},
+  {"id":"seller-003","name":"Arjun S.","type":"individual","rating":4.6,"reviewCount":38,"location":"Pune","phonesSold":64}
+]

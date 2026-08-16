@@ -1,0 +1,6 @@
+{
+  "batteryHealth":[{"id":"90-plus","label":"90%+","min":90},{"id":"85-plus","label":"85%+","min":85},{"id":"80-plus","label":"80%+","min":80}],
+  "warranty":[{"id":"3-months","label":"3+ months","minMonths":3},{"id":"6-months","label":"6+ months","minMonths":6},{"id":"12-months","label":"1 year","minMonths":12}],
+  "sellerTypes":["verified","individual"],
+  "accessories":["Original box","Original charger","Complete accessories"]
+}

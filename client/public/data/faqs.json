@@ -1,0 +1,5 @@
+[
+  {"id":"faq-001","question":"How are the phones checked?","answer":"Every listing is reviewed for physical condition, battery health, display, cameras, ports, and core functionality before it is published."},
+  {"id":"faq-002","question":"Do phones come with warranty?","answer":"Warranty duration is shown on every listing. Most featured devices include three or six months of coverage."},
+  {"id":"faq-003","question":"Can I contact a seller?","answer":"Yes. Contact Seller opens a frontend-only demo contact state so you can explore the experience without sending a real message."}
+]
