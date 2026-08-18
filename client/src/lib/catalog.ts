@@ -7,7 +7,7 @@ export type Product = {
   id: string; brandId: string; modelId: string; name: string; description?: string; storage: string; color: { name: string; hex: string };
   pricing: { price: number; originalPrice: number; discountPercent: number; currency: string };
   condition: { grade: string; description: string }; battery: { healthPercent: number };
-  warranty: { available: boolean; months: number }; delivery: { free: boolean; estimatedDays: string };
+  warranty: { available: boolean; months: number; customLabel?: string }; delivery: { free: boolean; estimatedDays: string };
   sellerId: string; location: { city: string; state: string }; images: { primary: string; gallery: string[] };
   specifications: Record<string, string>; status: string; tags: string[];
 };
