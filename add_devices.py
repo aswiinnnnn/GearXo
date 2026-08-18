@@ -81,7 +81,7 @@ for i, (model_id, name, storage, color_name, color_hex, price, original, grade, 
         'location': {'city': city, 'state': state},
         'images': {'primary': image, 'gallery': [image, images[(i - 8) % len(images)]]},
         'specifications': {**model['specifications'], 'camera': '50MP', 'sim': 'eSIM + Physical SIM'},
-        'description': f'{name} in {color_name}, checked by Care Plus and ready for its next owner.',
+        'description': f'{name} in {color_name}, checked by Gearxo and ready for its next owner.',
         'status': 'active',
         'tags': [tag]
     })
